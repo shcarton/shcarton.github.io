@@ -10,9 +10,9 @@ nav_order: 4
 
 My research stems from the idea that while machine learning is a wonderful tool for understanding and working with written human communication, it is hampered by the fact that even the most powerful models fail, often in ways that are difficult for humans to anticipate or even recognize in-situ. That makes it hard for people to effectively and ethically collaborate with these models on the types of tasks we'd like to use them for, such as making high-stakes decisions about pieces of text or extracting domain insights about large corpora. 
 
-I see model interpretablity as a big part of fixing this problem. If we can decompose a model prediction that we can't verify into pieces that we can verify individually, then we can more effectively incorporate it into our downstream decision-making. If we look at corpus-level explanations rather than corpus-level predictions, we can extract deeper domain insights from our content analysis. 
+I see model interpretablity as a big part of fixing this problem. If we can decompose an unverifiable model prediction into individually-verifiable pieces, then we can more effectively incorporate it into our downstream decision-making. If we look at corpus-level explanations rather than corpus-level predictions, we can extract deeper domain insights from our content analysis. 
 
-The upshot of all that is that there are a few types of projects I am particularly excited to supervise (although this list is non-exhaustive and I'm always open to hearing about a cool NLP idea a student would like to work on with me). 
+The upshot of all this is that there are a few types of projects I am particularly excited to supervise (although this list is non-exhaustive and I'm always open to hearing about a cool NLP idea a student would like to work on with me). 
 
 These include:
 - Novel interpretability or uncertainty estimation methods for NLP models
