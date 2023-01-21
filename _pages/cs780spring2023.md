@@ -67,7 +67,7 @@ The grading distribution is as follows:
 
 ### Late policy
 
-Homeworks and project milestones can be turned in up to 5 days late, with a 10% penalty on the maximum possible grade, before receiving a zero. 
+Homeworks and project milestones can be turned in up to 5 days late, with a stacking 10% per-day penalty on the maximum possible grade, before receiving a zero. 
 
 ### Attendance policy
 In-person attendance is encouraged and 10% of the final grade will be based on attendance and participation in discussion and classroom activities.
