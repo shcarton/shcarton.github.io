@@ -35,9 +35,9 @@ nav: false
 ## Syllabus
 
 
-Updated: 8/24/2022
+Updated: 1/20/2022
 
-Previous version: -
+Previously updated: -
 
 ### Important announcements
 There are a couple of key things that students in this course need to know.
