@@ -26,7 +26,7 @@ nav: false
 
 <br/>
 
-**Office hours:** Tuesdays 5:10pm - 6:00pm, location TBD
+**Office hours:** Thursdays 5:10pm - 6:00pm, location: Kingsbury Hall W224
 
 **Prerequisites:** CS 515 (or equivalent) and MATH 539 or MATH 644
 
@@ -35,9 +35,7 @@ nav: false
 ## Syllabus
 
 
-Updated: 2/5/2023
-
-Previously updated: 1/31/2023
+Updated: 2/6/2023
 
 ### Important announcements
 There are a couple of key things that students in this course need to know.
