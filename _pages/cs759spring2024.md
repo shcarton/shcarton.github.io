@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CS780/880 Spring 2023
-permalink: /cs780spring2023/
-description: "CS780/880 - Natural Language Processing"
+title: CS759/859 Spring 2024
+permalink: /cs759spring2024/
+description: "CS759/859 - Natural Language Processing"
 nav: false
 # nav_order: 4
 ---
