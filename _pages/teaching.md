@@ -13,4 +13,4 @@ nav_order: 5
 
  Fall 2022 -- **CS980 - Advanced Topics: Fair, Accountable and Transparent Machine Learning**
 
- Spring 2023 -- **[CS759/859 - Natural Language Processing](/cs759spring2023)**
+ Spring 2024 -- **[CS759/859 - Natural Language Processing](/cs759spring2024)**
