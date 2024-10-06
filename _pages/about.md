@@ -23,5 +23,5 @@ I am an assistant professor of computer science at the [University of New Hampsh
 
 My research is about human-centered NLP, with an emphasis on model interpretability as a means for achieving safer, more effective and ethical human-model collaboration when dealing with text. To that end, I am interested in both algorithmic and human-subjects work; both to create new methods for opening up models to human scrutiny, and running experiments to understand the human factors involved in that scrutiny. 
 
-I am recruiting PhD students and undergrad/masters research assistants. If you think you might be interested in working with me, take a peek at the [types of projects I am excited to supervise](/workwithme) and shoot me an email. It never hurts to talk!
+[//]: # (I am recruiting PhD students and undergrad/masters research assistants. If you think you might be interested in working with me, take a peek at the [types of projects I am excited to supervise]&#40;/workwithme&#41; and shoot me an email. It never hurts to talk!)
 

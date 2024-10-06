@@ -3,7 +3,7 @@ layout: page
 title: work with me
 permalink: /workwithme/
 # description: Work with me
-nav: true
+nav: false
 nav_order: 4
 ---
 
@@ -21,4 +21,4 @@ These include:
 - Interdisciplinary applications of interpretable NLP
 
 
-If you are a current or incoming UNH masters or undergraduate student, or a potential UNH PhD student, send me an email at **samuel DOT carton AT unh.edu** with your CV and I'll be happy to set up a meeting to chat further. 
+[//]: # (If you are a current or incoming UNH masters or undergraduate student, or a potential UNH PhD student, send me an email at **samuel DOT carton AT unh.edu** with your CV and I'll be happy to set up a meeting to chat further. )
